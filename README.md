@@ -15,6 +15,12 @@ O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 - **[Jest](https://jestjs.io/)** & **[Supertest](https://github.com/ladjs/supertest)** - Testes automatizados e de integração.
 - **[CORS](https://www.npmjs.com/package/cors)** - Configuração de segurança para acesso externo.
 
+## Documentação da API
+
+A documentação Swagger pode ser acessada em:
+
+http://localhost:3000/api-docs
+
 ## 📋 Pré-requisitos
 
 Antes de começar, você precisará ter instalado em sua máquina:
